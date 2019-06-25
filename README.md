@@ -103,5 +103,4 @@ A file that runs the application, PortableVN, on an iPhone.
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: medharani.pujari@rockets.utoledo.edu</li>
-          
-        </ul>
+</ul>
